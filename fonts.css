@@ -1,0 +1,36 @@
+.box {
+  min-height: 350px;
+  width: 2200px;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:72px;
+}
+
+.dark_blue {
+  background-color: #2a457a;
+}
+
+.light_blue {
+  background-color: #ffff00;
+}
+
+.green {
+  background-color: #0c8542;
+}
+h1 {
+	font-family: 'Baloo Bhaijaan', cursive;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 30px;
+}
+
+h3 {
+	font-family: 'Droid Serif', serif;
+	padding-bottom: 50px;
+}
