@@ -1,36 +1,48 @@
-.box {
-  min-height: 350px;
-  width: 2200px;
+.body{
+ width: 95vw;
+  height: 95vh;
+  background-color: gray;
+  float: left;
 }
 
-.white {
-	  background-color: #fff;
-	  min-height:72px;
-}
 
+.container {
+ height: 100%;
+ width: 100%;
+ color: blue;
+ font-family: Impact, Calibri;
+ text-align: center;
+}
 .dark_blue {
   background-color: #2a457a;
-}
+  width: 40%;
+  display: inline-table;
+   min-height:50%;
+  }
 
 .light_blue {
   background-color: #ffff00;
+  display: inline-table; 
+   min-height:50%;
+     width: 20%;
 }
 
 .green {
   background-color: #0c8542;
+   display: inline-table;
+   min-height:20%;
+   width:30%;
 }
-h1 {
-	font-family: 'Baloo Bhaijaan', cursive;
-	padding-bottom: 10px;
+.orange {
+  background-color: #FFA500;
+  display: inline-table; 
+   min-height:15%;
+     width: 10%;
+}
+.pink {
+  background-color: #FF69B4;
+  display: inline-table; 
+   min-height:20&;
+     width: 40%;
 }
 
-h2 {
-	font-family: 'Baloo Bhaijaan', cursive;
-	font-family: 'Roboto', sans-serif;
-	padding-bottom: 30px;
-}
-
-h3 {
-	font-family: 'Droid Serif', serif;
-	padding-bottom: 50px;
-}
